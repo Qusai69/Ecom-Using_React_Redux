@@ -1,0 +1,10 @@
+{
+    "products": [
+      { "id": 1, "name": "Best Shoes For Men", "price": 400, "originalPrice": 500, "img": "/img/new.png", "reviews": 20000 },
+      { "id": 2, "name": "Best Shoes For Women", "price": 450, "originalPrice": 550, "img": "/img/new.png", "reviews": 15000 },
+      { "id": 3, "name": "Running Shoes", "price": 300, "originalPrice": 350, "img": "/img/new.png", "reviews": 10000 },
+      { "id": 4, "name": "Casual Shoes", "price": 350, "originalPrice": 400, "img": "/img/new.png", "reviews": 5000 },
+      { "id": 5, "name": "Formal Shoes", "price": 500, "originalPrice": 600, "img": "/img/new.png", "reviews": 25000 }
+    ]
+  }
+  
